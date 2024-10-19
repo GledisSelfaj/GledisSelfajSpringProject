@@ -1,0 +1,51 @@
+#Ignore Maven target directory
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variable files
+.env
+.env.local
+
+# Application-specific configuration files
+application-*.yml
+application-*.properties
+
+
+# JRE / JDK specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Other IDEs
+*.swp
+*.swo
+*.bak
+*.orig
